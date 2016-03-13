@@ -38,7 +38,7 @@ There are two default Accounts. They are:
 
 *-Username: "guest" and Password: "guest"*
 
-Click the Log In button to proceed.
+Click the **Log In** button to proceed.
 	
 **Terminate Button:**
 
