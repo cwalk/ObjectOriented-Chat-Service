@@ -1,0 +1,11 @@
+
+guest: hello I am guest		17:42-8/4/2012
+
+admin: hello, I am admin!		17:42-8/4/2012
+
+admin: hello		17:44-8/4/2012
+
+guest: hello		18:32-3/13/2016
+
+admin: hi!		18:32-3/13/2016
+
