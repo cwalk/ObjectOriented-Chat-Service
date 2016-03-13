@@ -32,8 +32,9 @@ The Log In window will prompt the user for a Username and Password.
 
 There are two default Accounts. They are:
 
--Username: "admin" and Password: "admin" 
--Username: "guest" and Password: "guest"
+*-Username: "admin" and Password: "admin"*
+
+*-Username: "guest" and Password: "guest"*
 
 Click the Log In button to proceed.
 	
