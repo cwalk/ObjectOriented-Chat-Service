@@ -10,22 +10,21 @@ See Project Description.pdf for more information.
 
 Copy the project using `git clone  https://github.com/cwalk/ObjectOriented-Chat-Service`
 
+Import the project folder into your Eclipse workspace. This project was built to run as a Java Project in Eclipse.
+
+Once the source is imported, simply run the VerySimpleChatServer as an application. Then you can run the LoLChatsClient application for each person wanting to connect to the chat room.
+
+This program only has 2 default accounts, and are explained in the user manual below.
+
 ##User Manual
-
-Welcome to LoLChats! 
-
-What is LoLChats? 
 
 LoLChats is a messaging application that allows users connected to the server
 to chat in a group. 
 
-This user manual will demonstrate the ins and outs of our chat client.
-
 How to launch the client:
 
-The user will have to launch the the VerySimpleChatServer application 
-prior to launching the LoLChats application. Once the server client is
-running, launch the LoLChats application.
+The user will have to launch the the VerySimpleChatServer prior to launching the LoLChatsClient application. Once the server is
+running, launch the LoLChatsClient application.
 
 Log In window:
 
