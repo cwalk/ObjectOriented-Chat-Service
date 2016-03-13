@@ -26,6 +26,8 @@ to chat in a group.
 The user will have to launch the the VerySimpleChatServer prior to launching the LoLChatsClient application. Once the server is
 running, launch the LoLChatsClient application.
 
+
+
 **Log In window:**
 
 The Log In window will prompt the user for a Username and Password.
@@ -41,6 +43,8 @@ Click the Log In button to proceed.
 **Terminate Button:**
 
 Upon click, the client will be terminated and the socket to the server will be closed.
+
+
 
 **Message window:**
 
