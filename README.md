@@ -72,3 +72,7 @@ new Log In window for a new user to Log In to the chat client.
 **Terminate Button:**
 
 Upon click, the client will be terminated and the socket to the server will be closed.
+
+## YouTube
+
+YouTube:
